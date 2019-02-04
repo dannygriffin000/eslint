@@ -67,7 +67,7 @@
     "pluralize": "^7.0.0",
     "progress": "^2.0.0",
     "regexpp": "^2.0.0",
-    "require-uncached": "^1.0.3",
+    "require-uncached": "^2.0.0",
     "semver": "^5.5.0",
     "string.prototype.matchall": "^2.0.0",
     "strip-ansi": "^4.0.0",
