@@ -111,7 +111,7 @@
     "phantomjs-prebuilt": "^2.1.16",
     "proxyquire": "^2.0.1",
     "shelljs": "^0.8.2",
-    "sinon": "^3.3.0",
+    "sinon": "^7.3.0",
     "temp": "^0.8.3",
     "through": "^2.3.8"
   },
