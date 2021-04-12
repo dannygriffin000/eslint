@@ -93,7 +93,7 @@
     "eslint-plugin-rulesdir": "^0.1.0",
     "eslint-release": "^0.11.1",
     "eslint-rule-composer": "^0.3.0",
-    "eslump": "^1.6.2",
+    "eslump": "^3.0.0",
     "esprima": "^4.0.0",
     "istanbul": "^0.4.5",
     "jsdoc": "^3.5.5",
